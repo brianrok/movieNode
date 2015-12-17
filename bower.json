@@ -1,0 +1,27 @@
+{
+  "name": "movieNode",
+  "authors": [
+    "zhengyu"
+  ],
+  "description": "Movie Node",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "Movie"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
